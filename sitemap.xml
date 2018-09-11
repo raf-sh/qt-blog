@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://luxoft.github.io/qt-blog/posts/padalko/</loc>
+    <lastmod>2018-09-03T12:46:50+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://luxoft.github.io/qt-blog/posts/testbyvm/</loc>
     <lastmod>2018-08-01T16:51:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luxoft.github.io/qt-blog/posts/welcome/</loc>
+    <lastmod>2018-07-23T15:50:26+02:00</lastmod>
   </url>
   
   <url>
@@ -22,13 +32,13 @@
   
   <url>
     <loc>https://luxoft.github.io/qt-blog/posts/</loc>
-    <lastmod>2018-08-01T16:51:25+02:00</lastmod>
+    <lastmod>2018-09-03T12:46:50+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luxoft.github.io/qt-blog/</loc>
-    <lastmod>2018-08-01T16:51:25+02:00</lastmod>
+    <lastmod>2018-09-03T12:46:50+03:00</lastmod>
   </url>
   
   <url>
